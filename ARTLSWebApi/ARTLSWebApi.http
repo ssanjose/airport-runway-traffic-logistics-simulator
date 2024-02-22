@@ -1,0 +1,6 @@
+@ARTLSWebApi_HostAddress = http://localhost:5231
+
+GET {{ARTLSWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
